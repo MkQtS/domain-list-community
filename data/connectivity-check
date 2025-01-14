@@ -19,6 +19,12 @@ detectportal.firefox.com
 # KDE
 networkcheck.kde.org
 
+# Honor
+full:connectivitycheck.platform.hihonorcloud.com
+
+# Huawei
+full:connectivitycheck.platform.hicloud.com
+
 # MIUI
 full:connect.rom.miui.com
 
